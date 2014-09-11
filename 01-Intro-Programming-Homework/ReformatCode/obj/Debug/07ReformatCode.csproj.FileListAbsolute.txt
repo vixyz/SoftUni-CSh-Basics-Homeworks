@@ -1,0 +1,5 @@
+C:\Users\VixY\Desktop\SoftUni\HomeworksZero\Intro-Programming-Homework\ReformatCode\bin\Debug\ReformatCode.exe.config
+C:\Users\VixY\Desktop\SoftUni\HomeworksZero\Intro-Programming-Homework\ReformatCode\obj\Debug\ReformatCode.exe
+C:\Users\VixY\Desktop\SoftUni\HomeworksZero\Intro-Programming-Homework\ReformatCode\obj\Debug\ReformatCode.pdb
+C:\Users\VixY\Desktop\SoftUni\HomeworksZero\Intro-Programming-Homework\ReformatCode\bin\Debug\ReformatCode.exe
+C:\Users\VixY\Desktop\SoftUni\HomeworksZero\Intro-Programming-Homework\ReformatCode\bin\Debug\ReformatCode.pdb

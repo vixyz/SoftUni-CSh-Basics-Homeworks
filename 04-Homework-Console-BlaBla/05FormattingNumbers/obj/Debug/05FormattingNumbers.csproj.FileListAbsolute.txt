@@ -1,0 +1,5 @@
+C:\Users\Drasho\Desktop\VixY_HW\ConsoleInputOutput\05FormattingNumbers\bin\Debug\05FormattingNumbers.exe.config
+C:\Users\Drasho\Desktop\VixY_HW\ConsoleInputOutput\05FormattingNumbers\bin\Debug\05FormattingNumbers.exe
+C:\Users\Drasho\Desktop\VixY_HW\ConsoleInputOutput\05FormattingNumbers\bin\Debug\05FormattingNumbers.pdb
+C:\Users\Drasho\Desktop\VixY_HW\ConsoleInputOutput\05FormattingNumbers\obj\Debug\05FormattingNumbers.exe
+C:\Users\Drasho\Desktop\VixY_HW\ConsoleInputOutput\05FormattingNumbers\obj\Debug\05FormattingNumbers.pdb

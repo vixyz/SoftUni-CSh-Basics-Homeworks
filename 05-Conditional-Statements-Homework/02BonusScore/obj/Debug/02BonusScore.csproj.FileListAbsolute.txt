@@ -1,0 +1,5 @@
+C:\Users\VixY\Desktop\SoftUni\LevelZero\Zero-OneLevel\05-Conditional-Statements-Homework\02BonusScore\bin\Debug\02BonusScore.exe.config
+C:\Users\VixY\Desktop\SoftUni\LevelZero\Zero-OneLevel\05-Conditional-Statements-Homework\02BonusScore\bin\Debug\02BonusScore.exe
+C:\Users\VixY\Desktop\SoftUni\LevelZero\Zero-OneLevel\05-Conditional-Statements-Homework\02BonusScore\bin\Debug\02BonusScore.pdb
+C:\Users\VixY\Desktop\SoftUni\LevelZero\Zero-OneLevel\05-Conditional-Statements-Homework\02BonusScore\obj\Debug\02BonusScore.exe
+C:\Users\VixY\Desktop\SoftUni\LevelZero\Zero-OneLevel\05-Conditional-Statements-Homework\02BonusScore\obj\Debug\02BonusScore.pdb

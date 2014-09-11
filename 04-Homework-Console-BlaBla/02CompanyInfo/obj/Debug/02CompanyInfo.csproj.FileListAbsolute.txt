@@ -1,0 +1,6 @@
+C:\Users\Drasho\Desktop\VixY_HW\ConsoleInputOutput\02CompanyInfo\bin\Debug\02CompanyInfo.exe.config
+C:\Users\Drasho\Desktop\VixY_HW\ConsoleInputOutput\02CompanyInfo\bin\Debug\02CompanyInfo.exe
+C:\Users\Drasho\Desktop\VixY_HW\ConsoleInputOutput\02CompanyInfo\bin\Debug\02CompanyInfo.pdb
+C:\Users\Drasho\Desktop\VixY_HW\ConsoleInputOutput\02CompanyInfo\obj\Debug\02CompanyInfo.csprojResolveAssemblyReference.cache
+C:\Users\Drasho\Desktop\VixY_HW\ConsoleInputOutput\02CompanyInfo\obj\Debug\02CompanyInfo.exe
+C:\Users\Drasho\Desktop\VixY_HW\ConsoleInputOutput\02CompanyInfo\obj\Debug\02CompanyInfo.pdb

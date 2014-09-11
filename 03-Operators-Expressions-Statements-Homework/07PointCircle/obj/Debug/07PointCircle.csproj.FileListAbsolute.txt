@@ -1,0 +1,12 @@
+C:\Users\Dragomir\Desktop\VixY_SoftUni_HW\Operators-Expressions-Statements-Homework\07PointCircle\bin\Debug\07PointCircle.exe.config
+C:\Users\Dragomir\Desktop\VixY_SoftUni_HW\Operators-Expressions-Statements-Homework\07PointCircle\bin\Debug\07PointCircle.exe
+C:\Users\Dragomir\Desktop\VixY_SoftUni_HW\Operators-Expressions-Statements-Homework\07PointCircle\bin\Debug\07PointCircle.pdb
+C:\Users\Dragomir\Desktop\VixY_SoftUni_HW\Operators-Expressions-Statements-Homework\07PointCircle\obj\Debug\07PointCircle.csprojResolveAssemblyReference.cache
+C:\Users\Dragomir\Desktop\VixY_SoftUni_HW\Operators-Expressions-Statements-Homework\07PointCircle\obj\Debug\07PointCircle.exe
+C:\Users\Dragomir\Desktop\VixY_SoftUni_HW\Operators-Expressions-Statements-Homework\07PointCircle\obj\Debug\07PointCircle.pdb
+C:\Users\VixY\Desktop\SoftUni\HomeworksZero\03-Operators-Expressions-Statements-Homework\07PointCircle\bin\Debug\07PointCircle.exe.config
+C:\Users\VixY\Desktop\SoftUni\HomeworksZero\03-Operators-Expressions-Statements-Homework\07PointCircle\obj\Debug\07PointCircle.exe
+C:\Users\VixY\Desktop\SoftUni\HomeworksZero\03-Operators-Expressions-Statements-Homework\07PointCircle\obj\Debug\07PointCircle.pdb
+C:\Users\VixY\Desktop\SoftUni\HomeworksZero\03-Operators-Expressions-Statements-Homework\07PointCircle\bin\Debug\07PointCircle.exe
+C:\Users\VixY\Desktop\SoftUni\HomeworksZero\03-Operators-Expressions-Statements-Homework\07PointCircle\bin\Debug\07PointCircle.pdb
+C:\Users\VixY\Desktop\SoftUni\HomeworksZero\03-Operators-Expressions-Statements-Homework\07PointCircle\obj\Debug\07PointCircle.csprojResolveAssemblyReference.cache

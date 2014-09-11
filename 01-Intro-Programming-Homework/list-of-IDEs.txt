@@ -1,0 +1,58 @@
+CROSS-PLATFORM
+
+1. Chinook:    Built with, and supports wxWidgets. Runs on BSD, Linux, Solaris, and Windows.
+
+2. Code::Blocks:	 An open-source cross-platform C/C++ IDE written in wxWidgets. Its pluggable architecture enables it to be extended easily 
+by the use of external plugins (most of its functionality is provided by plugins). 
+Supported compilers are GNU GCC, MS Visual C++ Free Toolkit 2003, Digital Mars, and Borland C++ Compiler 5.5.
+wxSmith - A wxWidgets RAD plugin for Code::Blocks currently under heavy development.
+
+3. CodeLite:	 Open-source, cross platform (Windows, Linux & Mac OS) C/C++ IDE written with wxWidgets and released under the GPL license. 
+Features context sensitive help, auto-completion, refactoring, and a full debugging GUI. CodeLite is based on plugins so it can be extended 
+very easily.
+wxCrafter - A free wxWidgets RAD plugin for codelite
+
+4. DialogBlocks:	 Commercial dialog editor for wxWidgets from Anthemion Software Ltd. written by wxWidgets developer Julian Smart. 
+Besides being a RAD tool with C++ and XRC support, it also supports most common compilers and can generate makefiles and MSVC project files.
+
+5. Eclipse with its CDT:	 (C/C++ Development Tools) project (see the C/C++ development with the Eclipse Platform article at developerWorks).
+
+6. NetBeans C/C++ Development Pack:	 Sun's answer to eclipse. Open-Source (CDDL). Supports at least GNU GCC and suncc (Sun Studio Compiler).
+
+7. wxHatch:	 IDE and RAD tool written in wxWidgets.
+
+8. MinGW Developer Studio:	 IDE for Linux and MinGW ports of the GNU GCC compiler.
+
+9. SPE (Stani's Python Editor):	 Python IDE with wxGlade integrated, and Blender support.
+
+
+WINDOWS ONLY
+
+10. Borland C++ Builder:	 Borland's commercial IDE
+wxForms - Proprietary RAD plugin for Borland / Code Gear C++ Builder. $30-$50 single-user license. Works with the free C++ Builder 6.0 Personal Edition.
+
+11. Dev-C++:	 Free IDE that works well with wxWidgets and MinGW.
+wxDev-C++ - Extension for Dev-C++ with built-in form designer for wxWidgets.
+
+12. Microsoft Visual C++:	 Microsoft's Visual C++ (some editions are free)
+
+13. VisualWX:	 Freeware IDE and RAD tool with support for MinGW, C++, wxPython, wxPerl, wxRuby, and wxLua.
+
+14. Philasmicos Entwickler Studio:	 Proprietary IDE written by Philasmicos. Free home edition available. German-speaking support (Forum DE/EN). 
+Works well with wxWidgets and MinGW.
+
+15. Zeus IDE:	 Proprietary C/C++ IDE for Windows. Can be configured to do wxWidgets code completion and class browsing.
+
+
+MAC OS ONLY
+
+16. Xcode:	Apple's official IDE for Mac OS X.
+
+
+LINUX ONLY
+
+17. Anjuta:	 Open-source IDE built on GTK.
+
+18. CodeForge:	 Proprietary IDE, $295 for commercial use, $95 for private use.
+
+19. KDevelop:	 Open-source IDE built on Qt.

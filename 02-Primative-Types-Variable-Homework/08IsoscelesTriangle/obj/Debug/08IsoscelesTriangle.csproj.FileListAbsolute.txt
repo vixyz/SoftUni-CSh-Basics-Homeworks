@@ -1,0 +1,10 @@
+C:\Users\Dragomir\Desktop\VixY_SoftUni_HW\VixyHW2\Triangle\bin\Debug\Triangle.exe.config
+C:\Users\Dragomir\Desktop\VixY_SoftUni_HW\VixyHW2\Triangle\bin\Debug\Triangle.exe
+C:\Users\Dragomir\Desktop\VixY_SoftUni_HW\VixyHW2\Triangle\bin\Debug\Triangle.pdb
+C:\Users\Dragomir\Desktop\VixY_SoftUni_HW\VixyHW2\Triangle\obj\Debug\Triangle.exe
+C:\Users\Dragomir\Desktop\VixY_SoftUni_HW\VixyHW2\Triangle\obj\Debug\Triangle.pdb
+C:\Users\Dragomir\Desktop\VixY_SoftUni_HW\VixyHW2\Triangle\bin\Debug\Triangle.exe.CodeAnalysisLog.xml
+C:\Users\Dragomir\Desktop\VixY_SoftUni_HW\VixyHW2\Triangle\bin\Debug\Triangle.exe.lastcodeanalysissucceeded
+C:\Users\Dragomir\Desktop\VixY_SoftUni_HW\Primative-Types-Variable-Homework\08IsoscelesTriangle\bin\Debug\Triangle.exe.config
+C:\Users\Dragomir\Desktop\VixY_SoftUni_HW\Primative-Types-Variable-Homework\08IsoscelesTriangle\obj\Debug\Triangle.exe
+C:\Users\Dragomir\Desktop\VixY_SoftUni_HW\Primative-Types-Variable-Homework\08IsoscelesTriangle\obj\Debug\Triangle.pdb

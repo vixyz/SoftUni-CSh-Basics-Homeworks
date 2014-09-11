@@ -1,0 +1,6 @@
+C:\Users\Dragomir\Desktop\VixY_SoftUni_HW\VixyHW2\Strings and Objects\bin\Debug\Strings and Objects.exe.config
+C:\Users\Dragomir\Desktop\VixY_SoftUni_HW\VixyHW2\Strings and Objects\obj\Debug\Strings and Objects.exe
+C:\Users\Dragomir\Desktop\VixY_SoftUni_HW\VixyHW2\Strings and Objects\obj\Debug\Strings and Objects.pdb
+C:\Users\Dragomir\Desktop\VixY_SoftUni_HW\VixyHW2\Strings and Objects\bin\Debug\Strings and Objects.exe
+C:\Users\Dragomir\Desktop\VixY_SoftUni_HW\VixyHW2\Strings and Objects\bin\Debug\Strings and Objects.pdb
+C:\Users\Dragomir\Desktop\VixY_SoftUni_HW\VixyHW2\Strings and Objects\obj\Debug\06. Strings and Objects.csprojResolveAssemblyReference.cache

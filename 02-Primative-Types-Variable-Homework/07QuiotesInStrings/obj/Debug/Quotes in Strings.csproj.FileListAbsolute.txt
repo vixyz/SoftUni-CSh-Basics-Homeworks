@@ -1,0 +1,5 @@
+C:\Users\Dragomir\Desktop\VixY_SoftUni_HW\VixyHW2\Quotes in Strings\bin\Debug\Quotes in Strings.exe.config
+C:\Users\Dragomir\Desktop\VixY_SoftUni_HW\VixyHW2\Quotes in Strings\bin\Debug\Quotes in Strings.exe
+C:\Users\Dragomir\Desktop\VixY_SoftUni_HW\VixyHW2\Quotes in Strings\bin\Debug\Quotes in Strings.pdb
+C:\Users\Dragomir\Desktop\VixY_SoftUni_HW\VixyHW2\Quotes in Strings\obj\Debug\Quotes in Strings.exe
+C:\Users\Dragomir\Desktop\VixY_SoftUni_HW\VixyHW2\Quotes in Strings\obj\Debug\Quotes in Strings.pdb

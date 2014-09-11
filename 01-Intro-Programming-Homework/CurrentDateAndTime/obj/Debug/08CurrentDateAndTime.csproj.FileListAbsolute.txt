@@ -1,0 +1,5 @@
+C:\Users\VixY\Desktop\SoftUni\HomeworksZero\Intro-Programming-Homework\CurrentDateAndTime\bin\Debug\CurrentDateAndTime.exe.config
+C:\Users\VixY\Desktop\SoftUni\HomeworksZero\Intro-Programming-Homework\CurrentDateAndTime\obj\Debug\CurrentDateAndTime.exe
+C:\Users\VixY\Desktop\SoftUni\HomeworksZero\Intro-Programming-Homework\CurrentDateAndTime\obj\Debug\CurrentDateAndTime.pdb
+C:\Users\VixY\Desktop\SoftUni\HomeworksZero\Intro-Programming-Homework\CurrentDateAndTime\bin\Debug\CurrentDateAndTime.exe
+C:\Users\VixY\Desktop\SoftUni\HomeworksZero\Intro-Programming-Homework\CurrentDateAndTime\bin\Debug\CurrentDateAndTime.pdb

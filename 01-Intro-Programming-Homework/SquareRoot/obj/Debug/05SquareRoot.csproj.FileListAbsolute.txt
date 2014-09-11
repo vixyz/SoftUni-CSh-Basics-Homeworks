@@ -1,0 +1,5 @@
+C:\Users\VixY\Desktop\SoftUni\HomeworksZero\Intro-Programming-Homework\SquareRoot\bin\Debug\SquareRoot.exe.config
+C:\Users\VixY\Desktop\SoftUni\HomeworksZero\Intro-Programming-Homework\SquareRoot\obj\Debug\SquareRoot.exe
+C:\Users\VixY\Desktop\SoftUni\HomeworksZero\Intro-Programming-Homework\SquareRoot\obj\Debug\SquareRoot.pdb
+C:\Users\VixY\Desktop\SoftUni\HomeworksZero\Intro-Programming-Homework\SquareRoot\bin\Debug\SquareRoot.exe
+C:\Users\VixY\Desktop\SoftUni\HomeworksZero\Intro-Programming-Homework\SquareRoot\bin\Debug\SquareRoot.pdb

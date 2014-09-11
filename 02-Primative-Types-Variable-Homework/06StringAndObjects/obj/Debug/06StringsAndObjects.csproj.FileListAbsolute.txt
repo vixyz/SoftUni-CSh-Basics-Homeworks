@@ -1,0 +1,10 @@
+C:\Users\Dragomir\Desktop\VixY_SoftUni_HW\VixyHW2\Strings and Objects\bin\Debug\Strings and Objects.exe.config
+C:\Users\Dragomir\Desktop\VixY_SoftUni_HW\VixyHW2\Strings and Objects\obj\Debug\Strings and Objects.exe
+C:\Users\Dragomir\Desktop\VixY_SoftUni_HW\VixyHW2\Strings and Objects\obj\Debug\Strings and Objects.pdb
+C:\Users\Dragomir\Desktop\VixY_SoftUni_HW\VixyHW2\Strings and Objects\bin\Debug\Strings and Objects.exe
+C:\Users\Dragomir\Desktop\VixY_SoftUni_HW\VixyHW2\Strings and Objects\bin\Debug\Strings and Objects.pdb
+C:\Users\Dragomir\Desktop\VixY_SoftUni_HW\VixyHW2\Strings and Objects\bin\Debug\Strings and Objects.exe.CodeAnalysisLog.xml
+C:\Users\Dragomir\Desktop\VixY_SoftUni_HW\VixyHW2\Strings and Objects\bin\Debug\Strings and Objects.exe.lastcodeanalysissucceeded
+C:\Users\Dragomir\Desktop\VixY_SoftUni_HW\Primative-Types-Variable-Homework\06StringAndObjects\bin\Debug\Strings and Objects.exe.config
+C:\Users\Dragomir\Desktop\VixY_SoftUni_HW\Primative-Types-Variable-Homework\06StringAndObjects\obj\Debug\Strings and Objects.exe
+C:\Users\Dragomir\Desktop\VixY_SoftUni_HW\Primative-Types-Variable-Homework\06StringAndObjects\obj\Debug\Strings and Objects.pdb

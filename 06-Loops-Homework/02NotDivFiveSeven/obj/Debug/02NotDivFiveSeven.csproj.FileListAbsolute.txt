@@ -1,0 +1,5 @@
+C:\Users\VixY\Desktop\SoftUni\LevelZero\HomeworksZero\06-Loops-Homework\02NotDivFiveSeven\bin\Debug\02NotDivFiveSeven.exe.config
+C:\Users\VixY\Desktop\SoftUni\LevelZero\HomeworksZero\06-Loops-Homework\02NotDivFiveSeven\bin\Debug\02NotDivFiveSeven.exe
+C:\Users\VixY\Desktop\SoftUni\LevelZero\HomeworksZero\06-Loops-Homework\02NotDivFiveSeven\bin\Debug\02NotDivFiveSeven.pdb
+C:\Users\VixY\Desktop\SoftUni\LevelZero\HomeworksZero\06-Loops-Homework\02NotDivFiveSeven\obj\Debug\02NotDivFiveSeven.exe
+C:\Users\VixY\Desktop\SoftUni\LevelZero\HomeworksZero\06-Loops-Homework\02NotDivFiveSeven\obj\Debug\02NotDivFiveSeven.pdb

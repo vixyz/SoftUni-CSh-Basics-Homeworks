@@ -1,0 +1,5 @@
+C:\Users\VixY\Desktop\SoftUni\LevelZero\Zero-OneLevel\05-Conditional-Statements-Homework\06BiggestOfFive\bin\Debug\06BiggestOfFive.exe.config
+C:\Users\VixY\Desktop\SoftUni\LevelZero\Zero-OneLevel\05-Conditional-Statements-Homework\06BiggestOfFive\bin\Debug\06BiggestOfFive.exe
+C:\Users\VixY\Desktop\SoftUni\LevelZero\Zero-OneLevel\05-Conditional-Statements-Homework\06BiggestOfFive\bin\Debug\06BiggestOfFive.pdb
+C:\Users\VixY\Desktop\SoftUni\LevelZero\Zero-OneLevel\05-Conditional-Statements-Homework\06BiggestOfFive\obj\Debug\06BiggestOfFive.exe
+C:\Users\VixY\Desktop\SoftUni\LevelZero\Zero-OneLevel\05-Conditional-Statements-Homework\06BiggestOfFive\obj\Debug\06BiggestOfFive.pdb

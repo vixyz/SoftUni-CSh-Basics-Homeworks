@@ -1,0 +1,8 @@
+C:\Users\Dragomir\Desktop\VixY_SoftUni_HW\VixyHW2\Boolean Variable\bin\Debug\Boolean Variable.exe.config
+C:\Users\Dragomir\Desktop\VixY_SoftUni_HW\VixyHW2\Boolean Variable\bin\Debug\Boolean Variable.exe
+C:\Users\Dragomir\Desktop\VixY_SoftUni_HW\VixyHW2\Boolean Variable\bin\Debug\Boolean Variable.pdb
+C:\Users\Dragomir\Desktop\VixY_SoftUni_HW\VixyHW2\Boolean Variable\obj\Debug\Boolean Variable.exe
+C:\Users\Dragomir\Desktop\VixY_SoftUni_HW\VixyHW2\Boolean Variable\obj\Debug\Boolean Variable.pdb
+C:\Users\Dragomir\Desktop\VixY_SoftUni_HW\Primative-Types-Variable-Homework\05BooleanVariable\bin\Debug\Boolean Variable.exe.config
+C:\Users\Dragomir\Desktop\VixY_SoftUni_HW\Primative-Types-Variable-Homework\05BooleanVariable\obj\Debug\Boolean Variable.exe
+C:\Users\Dragomir\Desktop\VixY_SoftUni_HW\Primative-Types-Variable-Homework\05BooleanVariable\obj\Debug\Boolean Variable.pdb

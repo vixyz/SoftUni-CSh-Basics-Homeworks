@@ -1,0 +1,5 @@
+C:\Users\VixY\Desktop\SoftUni\LevelZero\Zero-OneLevel\05-Conditional-Statements-Homework\09PlayWithIntDoubleString\bin\Debug\09PlayWithIntDoubleString.exe.config
+C:\Users\VixY\Desktop\SoftUni\LevelZero\Zero-OneLevel\05-Conditional-Statements-Homework\09PlayWithIntDoubleString\bin\Debug\09PlayWithIntDoubleString.exe
+C:\Users\VixY\Desktop\SoftUni\LevelZero\Zero-OneLevel\05-Conditional-Statements-Homework\09PlayWithIntDoubleString\bin\Debug\09PlayWithIntDoubleString.pdb
+C:\Users\VixY\Desktop\SoftUni\LevelZero\Zero-OneLevel\05-Conditional-Statements-Homework\09PlayWithIntDoubleString\obj\Debug\09PlayWithIntDoubleString.exe
+C:\Users\VixY\Desktop\SoftUni\LevelZero\Zero-OneLevel\05-Conditional-Statements-Homework\09PlayWithIntDoubleString\obj\Debug\09PlayWithIntDoubleString.pdb

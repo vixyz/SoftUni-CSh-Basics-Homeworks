@@ -1,0 +1,3 @@
+C:\Users\Dragomir\Desktop\VixY_SoftUni_HW\VixyHW2\Comparing Floats\bin\Debug\Comparing Floats.exe.config
+C:\Users\Dragomir\Desktop\VixY_SoftUni_HW\VixyHW2\Comparing Floats\obj\Debug\Comparing Floats.exe
+C:\Users\Dragomir\Desktop\VixY_SoftUni_HW\VixyHW2\Comparing Floats\obj\Debug\Comparing Floats.pdb

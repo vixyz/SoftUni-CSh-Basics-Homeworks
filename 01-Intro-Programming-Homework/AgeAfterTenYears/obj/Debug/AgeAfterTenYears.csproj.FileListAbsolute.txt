@@ -1,0 +1,9 @@
+C:\Users\Drasho\Desktop\VixY_HW\Intro-Programming-Homework\AgeAfterTenYears\bin\Debug\AgeAfterTenYears.exe.config
+C:\Users\Drasho\Desktop\VixY_HW\Intro-Programming-Homework\AgeAfterTenYears\bin\Debug\AgeAfterTenYears.exe
+C:\Users\Drasho\Desktop\VixY_HW\Intro-Programming-Homework\AgeAfterTenYears\bin\Debug\AgeAfterTenYears.pdb
+C:\Users\Drasho\Desktop\VixY_HW\Intro-Programming-Homework\AgeAfterTenYears\obj\Debug\AgeAfterTenYears.csprojResolveAssemblyReference.cache
+C:\Users\Drasho\Desktop\VixY_HW\Intro-Programming-Homework\AgeAfterTenYears\obj\Debug\AgeAfterTenYears.exe
+C:\Users\Drasho\Desktop\VixY_HW\Intro-Programming-Homework\AgeAfterTenYears\obj\Debug\AgeAfterTenYears.pdb
+C:\Users\VixY\Desktop\SoftUni\HomeworksZero\Intro-Programming-Homework\AgeAfterTenYears\bin\Debug\AgeAfterTenYears.exe.config
+C:\Users\VixY\Desktop\SoftUni\HomeworksZero\Intro-Programming-Homework\AgeAfterTenYears\obj\Debug\AgeAfterTenYears.exe
+C:\Users\VixY\Desktop\SoftUni\HomeworksZero\Intro-Programming-Homework\AgeAfterTenYears\obj\Debug\AgeAfterTenYears.pdb

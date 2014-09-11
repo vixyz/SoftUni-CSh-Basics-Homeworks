@@ -1,0 +1,6 @@
+C:\Users\VixY\Desktop\SoftUni\LevelZero\HomeworksZero\07Advanced-Homework\01FibonacciNumbers\bin\Debug\01FibonacciNumbers.exe.config
+C:\Users\VixY\Desktop\SoftUni\LevelZero\HomeworksZero\07Advanced-Homework\01FibonacciNumbers\bin\Debug\01FibonacciNumbers.exe
+C:\Users\VixY\Desktop\SoftUni\LevelZero\HomeworksZero\07Advanced-Homework\01FibonacciNumbers\bin\Debug\01FibonacciNumbers.pdb
+C:\Users\VixY\Desktop\SoftUni\LevelZero\HomeworksZero\07Advanced-Homework\01FibonacciNumbers\obj\Debug\01FibonacciNumbers.csprojResolveAssemblyReference.cache
+C:\Users\VixY\Desktop\SoftUni\LevelZero\HomeworksZero\07Advanced-Homework\01FibonacciNumbers\obj\Debug\01FibonacciNumbers.exe
+C:\Users\VixY\Desktop\SoftUni\LevelZero\HomeworksZero\07Advanced-Homework\01FibonacciNumbers\obj\Debug\01FibonacciNumbers.pdb

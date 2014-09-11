@@ -1,0 +1,5 @@
+C:\Users\VixY\Desktop\SoftUni\LevelZero\Zero-OneLevel\05-Conditional-Statements-Homework\05TheBiggestOfThree\bin\Debug\05TheBiggestOfThree.exe.config
+C:\Users\VixY\Desktop\SoftUni\LevelZero\Zero-OneLevel\05-Conditional-Statements-Homework\05TheBiggestOfThree\bin\Debug\05TheBiggestOfThree.exe
+C:\Users\VixY\Desktop\SoftUni\LevelZero\Zero-OneLevel\05-Conditional-Statements-Homework\05TheBiggestOfThree\bin\Debug\05TheBiggestOfThree.pdb
+C:\Users\VixY\Desktop\SoftUni\LevelZero\Zero-OneLevel\05-Conditional-Statements-Homework\05TheBiggestOfThree\obj\Debug\05TheBiggestOfThree.exe
+C:\Users\VixY\Desktop\SoftUni\LevelZero\Zero-OneLevel\05-Conditional-Statements-Homework\05TheBiggestOfThree\obj\Debug\05TheBiggestOfThree.pdb

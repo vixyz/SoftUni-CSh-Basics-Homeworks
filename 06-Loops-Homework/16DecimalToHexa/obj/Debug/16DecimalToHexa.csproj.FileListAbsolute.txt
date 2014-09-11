@@ -1,0 +1,5 @@
+C:\Users\VixY\Desktop\SoftUni\LevelZero\HomeworksZero\06-Loops-Homework\16DecimalToHexa\bin\Debug\16DecimalToHexa.exe.config
+C:\Users\VixY\Desktop\SoftUni\LevelZero\HomeworksZero\06-Loops-Homework\16DecimalToHexa\bin\Debug\16DecimalToHexa.exe
+C:\Users\VixY\Desktop\SoftUni\LevelZero\HomeworksZero\06-Loops-Homework\16DecimalToHexa\bin\Debug\16DecimalToHexa.pdb
+C:\Users\VixY\Desktop\SoftUni\LevelZero\HomeworksZero\06-Loops-Homework\16DecimalToHexa\obj\Debug\16DecimalToHexa.exe
+C:\Users\VixY\Desktop\SoftUni\LevelZero\HomeworksZero\06-Loops-Homework\16DecimalToHexa\obj\Debug\16DecimalToHexa.pdb

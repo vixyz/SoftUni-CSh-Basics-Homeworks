@@ -1,0 +1,5 @@
+C:\Users\VixY\Desktop\SoftUni\LevelZero\HomeworksZero\07Advanced-Homework\04DifferenceBetweenDates\bin\Debug\04DifferenceBetweenDates.exe.config
+C:\Users\VixY\Desktop\SoftUni\LevelZero\HomeworksZero\07Advanced-Homework\04DifferenceBetweenDates\bin\Debug\04DifferenceBetweenDates.exe
+C:\Users\VixY\Desktop\SoftUni\LevelZero\HomeworksZero\07Advanced-Homework\04DifferenceBetweenDates\bin\Debug\04DifferenceBetweenDates.pdb
+C:\Users\VixY\Desktop\SoftUni\LevelZero\HomeworksZero\07Advanced-Homework\04DifferenceBetweenDates\obj\Debug\04DifferenceBetweenDates.exe
+C:\Users\VixY\Desktop\SoftUni\LevelZero\HomeworksZero\07Advanced-Homework\04DifferenceBetweenDates\obj\Debug\04DifferenceBetweenDates.pdb

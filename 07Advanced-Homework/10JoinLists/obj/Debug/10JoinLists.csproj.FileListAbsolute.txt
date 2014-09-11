@@ -1,0 +1,6 @@
+C:\Users\VixY\Desktop\SoftUni\LevelZero\HomeworksZero\07Advanced-Homework\10JoinLists\bin\Debug\10JoinLists.exe.config
+C:\Users\VixY\Desktop\SoftUni\LevelZero\HomeworksZero\07Advanced-Homework\10JoinLists\bin\Debug\10JoinLists.exe
+C:\Users\VixY\Desktop\SoftUni\LevelZero\HomeworksZero\07Advanced-Homework\10JoinLists\bin\Debug\10JoinLists.pdb
+C:\Users\VixY\Desktop\SoftUni\LevelZero\HomeworksZero\07Advanced-Homework\10JoinLists\obj\Debug\10JoinLists.csprojResolveAssemblyReference.cache
+C:\Users\VixY\Desktop\SoftUni\LevelZero\HomeworksZero\07Advanced-Homework\10JoinLists\obj\Debug\10JoinLists.exe
+C:\Users\VixY\Desktop\SoftUni\LevelZero\HomeworksZero\07Advanced-Homework\10JoinLists\obj\Debug\10JoinLists.pdb

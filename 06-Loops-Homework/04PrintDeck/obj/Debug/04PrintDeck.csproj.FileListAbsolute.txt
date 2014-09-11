@@ -1,0 +1,5 @@
+C:\Users\VixY\Desktop\SoftUni\LevelZero\HomeworksZero\06-Loops-Homework\04PrintDeck\bin\Debug\04PrintDeck.exe.config
+C:\Users\VixY\Desktop\SoftUni\LevelZero\HomeworksZero\06-Loops-Homework\04PrintDeck\bin\Debug\04PrintDeck.exe
+C:\Users\VixY\Desktop\SoftUni\LevelZero\HomeworksZero\06-Loops-Homework\04PrintDeck\bin\Debug\04PrintDeck.pdb
+C:\Users\VixY\Desktop\SoftUni\LevelZero\HomeworksZero\06-Loops-Homework\04PrintDeck\obj\Debug\04PrintDeck.exe
+C:\Users\VixY\Desktop\SoftUni\LevelZero\HomeworksZero\06-Loops-Homework\04PrintDeck\obj\Debug\04PrintDeck.pdb

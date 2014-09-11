@@ -1,0 +1,10 @@
+C:\Users\Dragomir\Desktop\VixY_SoftUni_HW\VixyHW2\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\Dragomir\Desktop\VixY_SoftUni_HW\VixyHW2\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\Dragomir\Desktop\VixY_SoftUni_HW\VixyHW2\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Users\Dragomir\Desktop\VixY_SoftUni_HW\VixyHW2\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\Dragomir\Desktop\VixY_SoftUni_HW\VixyHW2\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\Dragomir\Desktop\VixY_SoftUni_HW\VixyHW2\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.CodeAnalysisLog.xml
+C:\Users\Dragomir\Desktop\VixY_SoftUni_HW\VixyHW2\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.lastcodeanalysissucceeded
+C:\Users\Dragomir\Desktop\VixY_SoftUni_HW\Primative-Types-Variable-Homework\03VarHexadecimalFormat\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\Dragomir\Desktop\VixY_SoftUni_HW\Primative-Types-Variable-Homework\03VarHexadecimalFormat\obj\Debug\ConsoleApplication1.exe
+C:\Users\Dragomir\Desktop\VixY_SoftUni_HW\Primative-Types-Variable-Homework\03VarHexadecimalFormat\obj\Debug\ConsoleApplication1.pdb

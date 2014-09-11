@@ -1,0 +1,2 @@
+C:\Users\Dragomir\Desktop\VixY_SoftUni_HW\VixyHW2\11BankAccountData\bin\Debug\11BankAccountData.exe.config
+C:\Users\Dragomir\Desktop\VixY_SoftUni_HW\Primative-Types-Variable-Homework\11BankAccountData\bin\Debug\11BankAccountData.exe.config

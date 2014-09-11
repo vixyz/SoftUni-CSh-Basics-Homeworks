@@ -1,0 +1,10 @@
+C:\Users\Dragomir\Desktop\VixY_SoftUni_HW\VixyHW2\02. Float Or Double\bin\Debug\_02.Float_Or_Double.exe.config
+C:\Users\Dragomir\Desktop\VixY_SoftUni_HW\VixyHW2\02. Float Or Double\obj\Debug\_02.Float_Or_Double.exe
+C:\Users\Dragomir\Desktop\VixY_SoftUni_HW\VixyHW2\02. Float Or Double\obj\Debug\_02.Float_Or_Double.pdb
+C:\Users\Dragomir\Desktop\VixY_SoftUni_HW\VixyHW2\02. Float Or Double\bin\Debug\_02.Float_Or_Double.exe
+C:\Users\Dragomir\Desktop\VixY_SoftUni_HW\VixyHW2\02. Float Or Double\bin\Debug\_02.Float_Or_Double.pdb
+C:\Users\Dragomir\Desktop\VixY_SoftUni_HW\VixyHW2\02. Float Or Double\bin\Debug\_02.Float_Or_Double.exe.CodeAnalysisLog.xml
+C:\Users\Dragomir\Desktop\VixY_SoftUni_HW\VixyHW2\02. Float Or Double\bin\Debug\_02.Float_Or_Double.exe.lastcodeanalysissucceeded
+C:\Users\Dragomir\Desktop\VixY_SoftUni_HW\Primative-Types-Variable-Homework\02FloatOrDouble\bin\Debug\_02.Float_Or_Double.exe.config
+C:\Users\Dragomir\Desktop\VixY_SoftUni_HW\Primative-Types-Variable-Homework\02FloatOrDouble\obj\Debug\_02.Float_Or_Double.exe
+C:\Users\Dragomir\Desktop\VixY_SoftUni_HW\Primative-Types-Variable-Homework\02FloatOrDouble\obj\Debug\_02.Float_Or_Double.pdb

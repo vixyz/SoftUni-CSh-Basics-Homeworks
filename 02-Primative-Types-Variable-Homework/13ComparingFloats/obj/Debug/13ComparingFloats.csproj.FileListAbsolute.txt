@@ -1,0 +1,10 @@
+C:\Users\Dragomir\Desktop\VixY_SoftUni_HW\VixyHW2\Comparing Floats\bin\Debug\Comparing Floats.exe.config
+C:\Users\Dragomir\Desktop\VixY_SoftUni_HW\VixyHW2\Comparing Floats\bin\Debug\Comparing Floats.exe
+C:\Users\Dragomir\Desktop\VixY_SoftUni_HW\VixyHW2\Comparing Floats\bin\Debug\Comparing Floats.pdb
+C:\Users\Dragomir\Desktop\VixY_SoftUni_HW\VixyHW2\Comparing Floats\obj\Debug\Comparing Floats.exe
+C:\Users\Dragomir\Desktop\VixY_SoftUni_HW\VixyHW2\Comparing Floats\obj\Debug\Comparing Floats.pdb
+C:\Users\Dragomir\Desktop\VixY_SoftUni_HW\VixyHW2\Comparing Floats\bin\Debug\Comparing Floats.exe.CodeAnalysisLog.xml
+C:\Users\Dragomir\Desktop\VixY_SoftUni_HW\VixyHW2\Comparing Floats\bin\Debug\Comparing Floats.exe.lastcodeanalysissucceeded
+C:\Users\Dragomir\Desktop\VixY_SoftUni_HW\Primative-Types-Variable-Homework\13ComparingFloats\bin\Debug\Comparing Floats.exe.config
+C:\Users\Dragomir\Desktop\VixY_SoftUni_HW\Primative-Types-Variable-Homework\13ComparingFloats\obj\Debug\Comparing Floats.exe
+C:\Users\Dragomir\Desktop\VixY_SoftUni_HW\Primative-Types-Variable-Homework\13ComparingFloats\obj\Debug\Comparing Floats.pdb

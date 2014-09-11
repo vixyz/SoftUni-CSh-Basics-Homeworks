@@ -1,0 +1,6 @@
+C:\Users\VixY\Desktop\SoftUni\LevelZero\Zero-OneLevel\05-Conditional-Statements-Homework\01ExchangeIfGreater\bin\Debug\01ExchangeIfGreater.exe.config
+C:\Users\VixY\Desktop\SoftUni\LevelZero\Zero-OneLevel\05-Conditional-Statements-Homework\01ExchangeIfGreater\bin\Debug\01ExchangeIfGreater.exe
+C:\Users\VixY\Desktop\SoftUni\LevelZero\Zero-OneLevel\05-Conditional-Statements-Homework\01ExchangeIfGreater\bin\Debug\01ExchangeIfGreater.pdb
+C:\Users\VixY\Desktop\SoftUni\LevelZero\Zero-OneLevel\05-Conditional-Statements-Homework\01ExchangeIfGreater\obj\Debug\01ExchangeIfGreater.csprojResolveAssemblyReference.cache
+C:\Users\VixY\Desktop\SoftUni\LevelZero\Zero-OneLevel\05-Conditional-Statements-Homework\01ExchangeIfGreater\obj\Debug\01ExchangeIfGreater.exe
+C:\Users\VixY\Desktop\SoftUni\LevelZero\Zero-OneLevel\05-Conditional-Statements-Homework\01ExchangeIfGreater\obj\Debug\01ExchangeIfGreater.pdb

@@ -1,0 +1,8 @@
+C:\Users\Drasho\Desktop\VixY_HW\Intro-Programming-Homework\PrintNumbers\bin\Debug\PrintNumbers.exe.config
+C:\Users\Drasho\Desktop\VixY_HW\Intro-Programming-Homework\PrintNumbers\bin\Debug\PrintNumbers.exe
+C:\Users\Drasho\Desktop\VixY_HW\Intro-Programming-Homework\PrintNumbers\bin\Debug\PrintNumbers.pdb
+C:\Users\Drasho\Desktop\VixY_HW\Intro-Programming-Homework\PrintNumbers\obj\Debug\PrintNumbers.exe
+C:\Users\Drasho\Desktop\VixY_HW\Intro-Programming-Homework\PrintNumbers\obj\Debug\PrintNumbers.pdb
+C:\Users\VixY\Desktop\SoftUni\HomeworksZero\Intro-Programming-Homework\PrintNumbers\bin\Debug\PrintNumbers.exe.config
+C:\Users\VixY\Desktop\SoftUni\HomeworksZero\Intro-Programming-Homework\PrintNumbers\obj\Debug\PrintNumbers.exe
+C:\Users\VixY\Desktop\SoftUni\HomeworksZero\Intro-Programming-Homework\PrintNumbers\obj\Debug\PrintNumbers.pdb

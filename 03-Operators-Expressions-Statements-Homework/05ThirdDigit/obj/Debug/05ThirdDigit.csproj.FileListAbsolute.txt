@@ -1,0 +1,8 @@
+C:\Users\Dragomir\Desktop\VixY_SoftUni_HW\Operators-Expressions-Statements-Homework\05ThirdDigit\bin\Debug\05ThirdDigit.exe.config
+C:\Users\Dragomir\Desktop\VixY_SoftUni_HW\Operators-Expressions-Statements-Homework\05ThirdDigit\bin\Debug\05ThirdDigit.exe
+C:\Users\Dragomir\Desktop\VixY_SoftUni_HW\Operators-Expressions-Statements-Homework\05ThirdDigit\bin\Debug\05ThirdDigit.pdb
+C:\Users\Dragomir\Desktop\VixY_SoftUni_HW\Operators-Expressions-Statements-Homework\05ThirdDigit\obj\Debug\05ThirdDigit.exe
+C:\Users\Dragomir\Desktop\VixY_SoftUni_HW\Operators-Expressions-Statements-Homework\05ThirdDigit\obj\Debug\05ThirdDigit.pdb
+C:\Users\VixY\Desktop\SoftUni\HomeworksZero\03-Operators-Expressions-Statements-Homework\05ThirdDigit\bin\Debug\05ThirdDigit.exe.config
+C:\Users\VixY\Desktop\SoftUni\HomeworksZero\03-Operators-Expressions-Statements-Homework\05ThirdDigit\obj\Debug\05ThirdDigit.exe
+C:\Users\VixY\Desktop\SoftUni\HomeworksZero\03-Operators-Expressions-Statements-Homework\05ThirdDigit\obj\Debug\05ThirdDigit.pdb

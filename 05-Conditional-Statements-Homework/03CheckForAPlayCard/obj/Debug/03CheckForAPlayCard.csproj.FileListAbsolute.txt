@@ -1,0 +1,5 @@
+C:\Users\VixY\Desktop\SoftUni\LevelZero\Zero-OneLevel\05-Conditional-Statements-Homework\03CheckForAPlayCard\bin\Debug\03CheckForAPlayCard.exe.config
+C:\Users\VixY\Desktop\SoftUni\LevelZero\Zero-OneLevel\05-Conditional-Statements-Homework\03CheckForAPlayCard\bin\Debug\03CheckForAPlayCard.exe
+C:\Users\VixY\Desktop\SoftUni\LevelZero\Zero-OneLevel\05-Conditional-Statements-Homework\03CheckForAPlayCard\bin\Debug\03CheckForAPlayCard.pdb
+C:\Users\VixY\Desktop\SoftUni\LevelZero\Zero-OneLevel\05-Conditional-Statements-Homework\03CheckForAPlayCard\obj\Debug\03CheckForAPlayCard.exe
+C:\Users\VixY\Desktop\SoftUni\LevelZero\Zero-OneLevel\05-Conditional-Statements-Homework\03CheckForAPlayCard\obj\Debug\03CheckForAPlayCard.pdb

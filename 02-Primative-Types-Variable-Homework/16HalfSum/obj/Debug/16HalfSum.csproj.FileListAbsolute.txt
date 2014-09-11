@@ -1,0 +1,6 @@
+C:\Users\Dragomir\Desktop\VixY_SoftUni_HW\Primative-Types-Variable-Homework\16HalfSum\bin\Debug\16HalfSum.exe.config
+C:\Users\Dragomir\Desktop\VixY_SoftUni_HW\Primative-Types-Variable-Homework\16HalfSum\bin\Debug\16HalfSum.exe
+C:\Users\Dragomir\Desktop\VixY_SoftUni_HW\Primative-Types-Variable-Homework\16HalfSum\bin\Debug\16HalfSum.pdb
+C:\Users\Dragomir\Desktop\VixY_SoftUni_HW\Primative-Types-Variable-Homework\16HalfSum\obj\Debug\16HalfSum.csprojResolveAssemblyReference.cache
+C:\Users\Dragomir\Desktop\VixY_SoftUni_HW\Primative-Types-Variable-Homework\16HalfSum\obj\Debug\16HalfSum.exe
+C:\Users\Dragomir\Desktop\VixY_SoftUni_HW\Primative-Types-Variable-Homework\16HalfSum\obj\Debug\16HalfSum.pdb

@@ -1,0 +1,6 @@
+C:\Users\VixY\Desktop\SoftUni\LevelZero\HomeworksZero\07Advanced-Homework\11CountOfLetters\bin\Debug\11CountOfLetters.exe.config
+C:\Users\VixY\Desktop\SoftUni\LevelZero\HomeworksZero\07Advanced-Homework\11CountOfLetters\bin\Debug\11CountOfLetters.exe
+C:\Users\VixY\Desktop\SoftUni\LevelZero\HomeworksZero\07Advanced-Homework\11CountOfLetters\bin\Debug\11CountOfLetters.pdb
+C:\Users\VixY\Desktop\SoftUni\LevelZero\HomeworksZero\07Advanced-Homework\11CountOfLetters\obj\Debug\11CountOfLetters.csprojResolveAssemblyReference.cache
+C:\Users\VixY\Desktop\SoftUni\LevelZero\HomeworksZero\07Advanced-Homework\11CountOfLetters\obj\Debug\11CountOfLetters.exe
+C:\Users\VixY\Desktop\SoftUni\LevelZero\HomeworksZero\07Advanced-Homework\11CountOfLetters\obj\Debug\11CountOfLetters.pdb

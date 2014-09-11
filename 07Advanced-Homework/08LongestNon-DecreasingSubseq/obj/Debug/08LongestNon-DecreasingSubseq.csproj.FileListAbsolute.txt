@@ -1,0 +1,5 @@
+C:\Users\VixY\Desktop\SoftUni\LevelZero\HomeworksZero\07Advanced-Homework\08LongestNon-DecreasingSubseq\bin\Debug\08LongestNon-DecreasingSubseq.exe.config
+C:\Users\VixY\Desktop\SoftUni\LevelZero\HomeworksZero\07Advanced-Homework\08LongestNon-DecreasingSubseq\bin\Debug\08LongestNon-DecreasingSubseq.exe
+C:\Users\VixY\Desktop\SoftUni\LevelZero\HomeworksZero\07Advanced-Homework\08LongestNon-DecreasingSubseq\bin\Debug\08LongestNon-DecreasingSubseq.pdb
+C:\Users\VixY\Desktop\SoftUni\LevelZero\HomeworksZero\07Advanced-Homework\08LongestNon-DecreasingSubseq\obj\Debug\08LongestNon-DecreasingSubseq.exe
+C:\Users\VixY\Desktop\SoftUni\LevelZero\HomeworksZero\07Advanced-Homework\08LongestNon-DecreasingSubseq\obj\Debug\08LongestNon-DecreasingSubseq.pdb

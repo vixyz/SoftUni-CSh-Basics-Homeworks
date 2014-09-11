@@ -1,0 +1,6 @@
+C:\Users\VixY\Desktop\SoftUni\LevelZero\HomeworksZero\06-Loops-Homework\13BinaryToDecimal\bin\Debug\13BinaryToDecimal.exe.config
+C:\Users\VixY\Desktop\SoftUni\LevelZero\HomeworksZero\06-Loops-Homework\13BinaryToDecimal\bin\Debug\13BinaryToDecimal.exe
+C:\Users\VixY\Desktop\SoftUni\LevelZero\HomeworksZero\06-Loops-Homework\13BinaryToDecimal\bin\Debug\13BinaryToDecimal.pdb
+C:\Users\VixY\Desktop\SoftUni\LevelZero\HomeworksZero\06-Loops-Homework\13BinaryToDecimal\obj\Debug\13BinaryToDecimal.csprojResolveAssemblyReference.cache
+C:\Users\VixY\Desktop\SoftUni\LevelZero\HomeworksZero\06-Loops-Homework\13BinaryToDecimal\obj\Debug\13BinaryToDecimal.exe
+C:\Users\VixY\Desktop\SoftUni\LevelZero\HomeworksZero\06-Loops-Homework\13BinaryToDecimal\obj\Debug\13BinaryToDecimal.pdb

@@ -1,0 +1,8 @@
+C:\Users\Drasho\Desktop\VixY_HW\Intro-Programming-Homework\MyName\bin\Debug\MyName.exe.config
+C:\Users\Drasho\Desktop\VixY_HW\Intro-Programming-Homework\MyName\obj\Debug\MyName.exe
+C:\Users\Drasho\Desktop\VixY_HW\Intro-Programming-Homework\MyName\obj\Debug\MyName.pdb
+C:\Users\Drasho\Desktop\VixY_HW\Intro-Programming-Homework\MyName\bin\Debug\MyName.exe
+C:\Users\Drasho\Desktop\VixY_HW\Intro-Programming-Homework\MyName\bin\Debug\MyName.pdb
+C:\Users\VixY\Desktop\SoftUni\HomeworksZero\Intro-Programming-Homework\MyName\bin\Debug\MyName.exe.config
+C:\Users\VixY\Desktop\SoftUni\HomeworksZero\Intro-Programming-Homework\MyName\obj\Debug\MyName.exe
+C:\Users\VixY\Desktop\SoftUni\HomeworksZero\Intro-Programming-Homework\MyName\obj\Debug\MyName.pdb

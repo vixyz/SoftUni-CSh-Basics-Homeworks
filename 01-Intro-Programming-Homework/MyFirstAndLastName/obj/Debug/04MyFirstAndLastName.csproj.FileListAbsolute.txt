@@ -1,0 +1,5 @@
+C:\Users\VixY\Desktop\SoftUni\HomeworksZero\Intro-Programming-Homework\MyFirstAndLastName\bin\Debug\MyFirstAndLastName.exe.config
+C:\Users\VixY\Desktop\SoftUni\HomeworksZero\Intro-Programming-Homework\MyFirstAndLastName\obj\Debug\MyFirstAndLastName.exe
+C:\Users\VixY\Desktop\SoftUni\HomeworksZero\Intro-Programming-Homework\MyFirstAndLastName\obj\Debug\MyFirstAndLastName.pdb
+C:\Users\VixY\Desktop\SoftUni\HomeworksZero\Intro-Programming-Homework\MyFirstAndLastName\bin\Debug\MyFirstAndLastName.exe
+C:\Users\VixY\Desktop\SoftUni\HomeworksZero\Intro-Programming-Homework\MyFirstAndLastName\bin\Debug\MyFirstAndLastName.pdb

@@ -1,0 +1,3 @@
+C:\Users\Dragomir\Desktop\VixY_SoftUni_HW\Primative-Types-Variable-Homework\01Declare Variables\bin\Debug\_1.Declare_Variables.exe.config
+C:\Users\Dragomir\Desktop\VixY_SoftUni_HW\Primative-Types-Variable-Homework\01Declare Variables\obj\Debug\_1.Declare_Variables.exe
+C:\Users\Dragomir\Desktop\VixY_SoftUni_HW\Primative-Types-Variable-Homework\01Declare Variables\obj\Debug\_1.Declare_Variables.pdb

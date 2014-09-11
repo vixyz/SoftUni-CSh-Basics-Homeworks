@@ -1,0 +1,5 @@
+C:\Users\VixY\Desktop\SoftUni\LevelZero\HomeworksZero\06-Loops-Homework\07CalcMoreFactoriels\bin\Debug\07CalcMoreFactoriels.exe.config
+C:\Users\VixY\Desktop\SoftUni\LevelZero\HomeworksZero\06-Loops-Homework\07CalcMoreFactoriels\bin\Debug\07CalcMoreFactoriels.exe
+C:\Users\VixY\Desktop\SoftUni\LevelZero\HomeworksZero\06-Loops-Homework\07CalcMoreFactoriels\bin\Debug\07CalcMoreFactoriels.pdb
+C:\Users\VixY\Desktop\SoftUni\LevelZero\HomeworksZero\06-Loops-Homework\07CalcMoreFactoriels\obj\Debug\07CalcMoreFactoriels.exe
+C:\Users\VixY\Desktop\SoftUni\LevelZero\HomeworksZero\06-Loops-Homework\07CalcMoreFactoriels\obj\Debug\07CalcMoreFactoriels.pdb

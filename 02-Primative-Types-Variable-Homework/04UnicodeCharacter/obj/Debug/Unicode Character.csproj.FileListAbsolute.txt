@@ -1,0 +1,5 @@
+C:\Users\Dragomir\Desktop\VixY_SoftUni_HW\VixyHW2\Hexashit\bin\Debug\Hexashit.exe.config
+C:\Users\Dragomir\Desktop\VixY_SoftUni_HW\VixyHW2\Hexashit\obj\Debug\Hexashit.exe
+C:\Users\Dragomir\Desktop\VixY_SoftUni_HW\VixyHW2\Hexashit\obj\Debug\Hexashit.pdb
+C:\Users\Dragomir\Desktop\VixY_SoftUni_HW\VixyHW2\Hexashit\bin\Debug\Hexashit.exe
+C:\Users\Dragomir\Desktop\VixY_SoftUni_HW\VixyHW2\Hexashit\bin\Debug\Hexashit.pdb

@@ -1,0 +1,6 @@
+C:\Users\VixY\Desktop\SoftUni\HomeworksZero\03-Operators-Expressions-Statements-Homework\09Trapezoids\bin\Debug\09Trapezoids.exe.config
+C:\Users\VixY\Desktop\SoftUni\HomeworksZero\03-Operators-Expressions-Statements-Homework\09Trapezoids\bin\Debug\09Trapezoids.exe
+C:\Users\VixY\Desktop\SoftUni\HomeworksZero\03-Operators-Expressions-Statements-Homework\09Trapezoids\bin\Debug\09Trapezoids.pdb
+C:\Users\VixY\Desktop\SoftUni\HomeworksZero\03-Operators-Expressions-Statements-Homework\09Trapezoids\obj\Debug\09Trapezoids.csprojResolveAssemblyReference.cache
+C:\Users\VixY\Desktop\SoftUni\HomeworksZero\03-Operators-Expressions-Statements-Homework\09Trapezoids\obj\Debug\09Trapezoids.exe
+C:\Users\VixY\Desktop\SoftUni\HomeworksZero\03-Operators-Expressions-Statements-Homework\09Trapezoids\obj\Debug\09Trapezoids.pdb

@@ -1,0 +1,9 @@
+C:\Users\VixY\Desktop\SoftUni\HomeworksZero\03-Operators-Expressions-Statements-Homework\19TheExplorer\bin\Debug\19TheExplorer.exe.config
+C:\Users\VixY\Desktop\SoftUni\HomeworksZero\03-Operators-Expressions-Statements-Homework\19TheExplorer\bin\Debug\19TheExplorer.exe
+C:\Users\VixY\Desktop\SoftUni\HomeworksZero\03-Operators-Expressions-Statements-Homework\19TheExplorer\bin\Debug\19TheExplorer.pdb
+C:\Users\VixY\Desktop\SoftUni\HomeworksZero\03-Operators-Expressions-Statements-Homework\19TheExplorer\obj\Debug\19TheExplorer.csprojResolveAssemblyReference.cache
+C:\Users\VixY\Desktop\SoftUni\HomeworksZero\03-Operators-Expressions-Statements-Homework\19TheExplorer\obj\Debug\19TheExplorer.exe
+C:\Users\VixY\Desktop\SoftUni\HomeworksZero\03-Operators-Expressions-Statements-Homework\19TheExplorer\obj\Debug\19TheExplorer.pdb
+C:\Users\VixY\Desktop\SoftUni\LevelZero\HomeworksZero\03-Operators-Expressions-Statements-Homework\19TheExplorer\bin\Debug\19TheExplorer.exe.config
+C:\Users\VixY\Desktop\SoftUni\LevelZero\HomeworksZero\03-Operators-Expressions-Statements-Homework\19TheExplorer\obj\Debug\19TheExplorer.exe
+C:\Users\VixY\Desktop\SoftUni\LevelZero\HomeworksZero\03-Operators-Expressions-Statements-Homework\19TheExplorer\obj\Debug\19TheExplorer.pdb

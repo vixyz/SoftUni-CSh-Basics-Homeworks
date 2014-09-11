@@ -1,0 +1,6 @@
+C:\Users\VixY\Desktop\SoftUni\HomeworksZero\03-Operators-Expressions-Statements-Homework\17Volleyball\bin\Debug\17Volleyball.exe.config
+C:\Users\VixY\Desktop\SoftUni\HomeworksZero\03-Operators-Expressions-Statements-Homework\17Volleyball\bin\Debug\17Volleyball.exe
+C:\Users\VixY\Desktop\SoftUni\HomeworksZero\03-Operators-Expressions-Statements-Homework\17Volleyball\bin\Debug\17Volleyball.pdb
+C:\Users\VixY\Desktop\SoftUni\HomeworksZero\03-Operators-Expressions-Statements-Homework\17Volleyball\obj\Debug\17Volleyball.csprojResolveAssemblyReference.cache
+C:\Users\VixY\Desktop\SoftUni\HomeworksZero\03-Operators-Expressions-Statements-Homework\17Volleyball\obj\Debug\17Volleyball.exe
+C:\Users\VixY\Desktop\SoftUni\HomeworksZero\03-Operators-Expressions-Statements-Homework\17Volleyball\obj\Debug\17Volleyball.pdb

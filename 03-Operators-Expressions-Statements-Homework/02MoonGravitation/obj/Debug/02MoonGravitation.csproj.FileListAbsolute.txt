@@ -1,0 +1,8 @@
+C:\Users\Dragomir\Desktop\VixY_SoftUni_HW\Operators-Expressions-Statements-Homework\02MoonGravitation\bin\Debug\02MoonGravitation.exe.config
+C:\Users\Dragomir\Desktop\VixY_SoftUni_HW\Operators-Expressions-Statements-Homework\02MoonGravitation\bin\Debug\02MoonGravitation.exe
+C:\Users\Dragomir\Desktop\VixY_SoftUni_HW\Operators-Expressions-Statements-Homework\02MoonGravitation\bin\Debug\02MoonGravitation.pdb
+C:\Users\Dragomir\Desktop\VixY_SoftUni_HW\Operators-Expressions-Statements-Homework\02MoonGravitation\obj\Debug\02MoonGravitation.exe
+C:\Users\Dragomir\Desktop\VixY_SoftUni_HW\Operators-Expressions-Statements-Homework\02MoonGravitation\obj\Debug\02MoonGravitation.pdb
+C:\Users\VixY\Desktop\SoftUni\HomeworksZero\03-Operators-Expressions-Statements-Homework\02MoonGravitation\bin\Debug\02MoonGravitation.exe.config
+C:\Users\VixY\Desktop\SoftUni\HomeworksZero\03-Operators-Expressions-Statements-Homework\02MoonGravitation\obj\Debug\02MoonGravitation.exe
+C:\Users\VixY\Desktop\SoftUni\HomeworksZero\03-Operators-Expressions-Statements-Homework\02MoonGravitation\obj\Debug\02MoonGravitation.pdb

@@ -1,0 +1,6 @@
+C:\Users\Dragomir\Desktop\VixY_SoftUni_HW\Primative-Types-Variable-Homework\14PrintTable\bin\Debug\14PrintTable.exe.config
+C:\Users\Dragomir\Desktop\VixY_SoftUni_HW\Primative-Types-Variable-Homework\14PrintTable\bin\Debug\14PrintTable.exe
+C:\Users\Dragomir\Desktop\VixY_SoftUni_HW\Primative-Types-Variable-Homework\14PrintTable\bin\Debug\14PrintTable.pdb
+C:\Users\Dragomir\Desktop\VixY_SoftUni_HW\Primative-Types-Variable-Homework\14PrintTable\obj\Debug\14PrintTable.csprojResolveAssemblyReference.cache
+C:\Users\Dragomir\Desktop\VixY_SoftUni_HW\Primative-Types-Variable-Homework\14PrintTable\obj\Debug\14PrintTable.exe
+C:\Users\Dragomir\Desktop\VixY_SoftUni_HW\Primative-Types-Variable-Homework\14PrintTable\obj\Debug\14PrintTable.pdb

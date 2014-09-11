@@ -1,0 +1,8 @@
+C:\Users\Drasho\Desktop\VixY_HW\Intro-Programming-Homework\LongSequence\bin\Debug\LongSequence.exe.config
+C:\Users\Drasho\Desktop\VixY_HW\Intro-Programming-Homework\LongSequence\bin\Debug\LongSequence.exe
+C:\Users\Drasho\Desktop\VixY_HW\Intro-Programming-Homework\LongSequence\bin\Debug\LongSequence.pdb
+C:\Users\Drasho\Desktop\VixY_HW\Intro-Programming-Homework\LongSequence\obj\Debug\LongSequence.exe
+C:\Users\Drasho\Desktop\VixY_HW\Intro-Programming-Homework\LongSequence\obj\Debug\LongSequence.pdb
+C:\Users\VixY\Desktop\SoftUni\HomeworksZero\Intro-Programming-Homework\LongSequence\bin\Debug\LongSequence.exe.config
+C:\Users\VixY\Desktop\SoftUni\HomeworksZero\Intro-Programming-Homework\LongSequence\obj\Debug\LongSequence.exe
+C:\Users\VixY\Desktop\SoftUni\HomeworksZero\Intro-Programming-Homework\LongSequence\obj\Debug\LongSequence.pdb

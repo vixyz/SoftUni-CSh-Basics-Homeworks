@@ -1,0 +1,10 @@
+C:\Users\Dragomir\Desktop\VixY_SoftUni_HW\VixyHW2\Hexashit\bin\Debug\Hexashit.exe.config
+C:\Users\Dragomir\Desktop\VixY_SoftUni_HW\VixyHW2\Hexashit\obj\Debug\Hexashit.exe
+C:\Users\Dragomir\Desktop\VixY_SoftUni_HW\VixyHW2\Hexashit\obj\Debug\Hexashit.pdb
+C:\Users\Dragomir\Desktop\VixY_SoftUni_HW\VixyHW2\Hexashit\bin\Debug\Hexashit.exe
+C:\Users\Dragomir\Desktop\VixY_SoftUni_HW\VixyHW2\Hexashit\bin\Debug\Hexashit.pdb
+C:\Users\Dragomir\Desktop\VixY_SoftUni_HW\VixyHW2\Hexashit\bin\Debug\Hexashit.exe.CodeAnalysisLog.xml
+C:\Users\Dragomir\Desktop\VixY_SoftUni_HW\VixyHW2\Hexashit\bin\Debug\Hexashit.exe.lastcodeanalysissucceeded
+C:\Users\Dragomir\Desktop\VixY_SoftUni_HW\Primative-Types-Variable-Homework\04UnicodeCharacter\bin\Debug\Hexashit.exe.config
+C:\Users\Dragomir\Desktop\VixY_SoftUni_HW\Primative-Types-Variable-Homework\04UnicodeCharacter\obj\Debug\Hexashit.exe
+C:\Users\Dragomir\Desktop\VixY_SoftUni_HW\Primative-Types-Variable-Homework\04UnicodeCharacter\obj\Debug\Hexashit.pdb

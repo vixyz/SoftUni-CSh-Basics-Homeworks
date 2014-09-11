@@ -1,0 +1,5 @@
+C:\Users\Drasho\Desktop\VixY_HW\ConsoleInputOutput\03CirclePerArea\bin\Debug\03CirclePerArea.exe.config
+C:\Users\Drasho\Desktop\VixY_HW\ConsoleInputOutput\03CirclePerArea\bin\Debug\03CirclePerArea.exe
+C:\Users\Drasho\Desktop\VixY_HW\ConsoleInputOutput\03CirclePerArea\bin\Debug\03CirclePerArea.pdb
+C:\Users\Drasho\Desktop\VixY_HW\ConsoleInputOutput\03CirclePerArea\obj\Debug\03CirclePerArea.exe
+C:\Users\Drasho\Desktop\VixY_HW\ConsoleInputOutput\03CirclePerArea\obj\Debug\03CirclePerArea.pdb

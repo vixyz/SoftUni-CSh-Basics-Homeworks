@@ -1,0 +1,5 @@
+C:\Users\VixY\Desktop\SoftUni\LevelZero\HomeworksZero\07Advanced-Homework\15ExtractURL\bin\Debug\15ExtractURL.exe.config
+C:\Users\VixY\Desktop\SoftUni\LevelZero\HomeworksZero\07Advanced-Homework\15ExtractURL\bin\Debug\15ExtractURL.exe
+C:\Users\VixY\Desktop\SoftUni\LevelZero\HomeworksZero\07Advanced-Homework\15ExtractURL\bin\Debug\15ExtractURL.pdb
+C:\Users\VixY\Desktop\SoftUni\LevelZero\HomeworksZero\07Advanced-Homework\15ExtractURL\obj\Debug\15ExtractURL.exe
+C:\Users\VixY\Desktop\SoftUni\LevelZero\HomeworksZero\07Advanced-Homework\15ExtractURL\obj\Debug\15ExtractURL.pdb

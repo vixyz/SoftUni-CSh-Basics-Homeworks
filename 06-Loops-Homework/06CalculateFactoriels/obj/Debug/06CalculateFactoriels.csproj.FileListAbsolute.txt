@@ -1,0 +1,6 @@
+C:\Users\VixY\Desktop\SoftUni\LevelZero\HomeworksZero\06-Loops-Homework\06CalculateFactoriels\bin\Debug\06CalculateFactoriels.exe.config
+C:\Users\VixY\Desktop\SoftUni\LevelZero\HomeworksZero\06-Loops-Homework\06CalculateFactoriels\bin\Debug\06CalculateFactoriels.exe
+C:\Users\VixY\Desktop\SoftUni\LevelZero\HomeworksZero\06-Loops-Homework\06CalculateFactoriels\bin\Debug\06CalculateFactoriels.pdb
+C:\Users\VixY\Desktop\SoftUni\LevelZero\HomeworksZero\06-Loops-Homework\06CalculateFactoriels\obj\Debug\06CalculateFactoriels.csprojResolveAssemblyReference.cache
+C:\Users\VixY\Desktop\SoftUni\LevelZero\HomeworksZero\06-Loops-Homework\06CalculateFactoriels\obj\Debug\06CalculateFactoriels.exe
+C:\Users\VixY\Desktop\SoftUni\LevelZero\HomeworksZero\06-Loops-Homework\06CalculateFactoriels\obj\Debug\06CalculateFactoriels.pdb

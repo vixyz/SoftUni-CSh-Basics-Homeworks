@@ -1,0 +1,6 @@
+C:\Users\VixY\Desktop\SoftUni\LevelZero\HomeworksZero\03-Operators-Expressions-Statements-Homework\11ExtractBit\bin\Debug\11ExtractBit.exe.config
+C:\Users\VixY\Desktop\SoftUni\LevelZero\HomeworksZero\03-Operators-Expressions-Statements-Homework\11ExtractBit\bin\Debug\11ExtractBit.exe
+C:\Users\VixY\Desktop\SoftUni\LevelZero\HomeworksZero\03-Operators-Expressions-Statements-Homework\11ExtractBit\bin\Debug\11ExtractBit.pdb
+C:\Users\VixY\Desktop\SoftUni\LevelZero\HomeworksZero\03-Operators-Expressions-Statements-Homework\11ExtractBit\obj\Debug\11ExtractBit.csprojResolveAssemblyReference.cache
+C:\Users\VixY\Desktop\SoftUni\LevelZero\HomeworksZero\03-Operators-Expressions-Statements-Homework\11ExtractBit\obj\Debug\11ExtractBit.exe
+C:\Users\VixY\Desktop\SoftUni\LevelZero\HomeworksZero\03-Operators-Expressions-Statements-Homework\11ExtractBit\obj\Debug\11ExtractBit.pdb

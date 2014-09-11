@@ -1,0 +1,6 @@
+C:\Users\VixY\Desktop\SoftUni\LevelZero\HomeworksZero\03-Operators-Expressions-Statements-Homework\LECTURE_DELETE_ME\bin\Debug\LECTURE_DELETE_ME.exe.config
+C:\Users\VixY\Desktop\SoftUni\LevelZero\HomeworksZero\03-Operators-Expressions-Statements-Homework\LECTURE_DELETE_ME\bin\Debug\LECTURE_DELETE_ME.exe
+C:\Users\VixY\Desktop\SoftUni\LevelZero\HomeworksZero\03-Operators-Expressions-Statements-Homework\LECTURE_DELETE_ME\bin\Debug\LECTURE_DELETE_ME.pdb
+C:\Users\VixY\Desktop\SoftUni\LevelZero\HomeworksZero\03-Operators-Expressions-Statements-Homework\LECTURE_DELETE_ME\obj\Debug\LECTURE_DELETE_ME.csprojResolveAssemblyReference.cache
+C:\Users\VixY\Desktop\SoftUni\LevelZero\HomeworksZero\03-Operators-Expressions-Statements-Homework\LECTURE_DELETE_ME\obj\Debug\LECTURE_DELETE_ME.exe
+C:\Users\VixY\Desktop\SoftUni\LevelZero\HomeworksZero\03-Operators-Expressions-Statements-Homework\LECTURE_DELETE_ME\obj\Debug\LECTURE_DELETE_ME.pdb

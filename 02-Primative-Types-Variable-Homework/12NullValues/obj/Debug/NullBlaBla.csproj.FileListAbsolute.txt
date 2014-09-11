@@ -1,0 +1,6 @@
+C:\Users\Dragomir\Desktop\VixY_SoftUni_HW\VixyHW2\NullBlaBla\bin\Debug\NullBlaBla.exe.config
+C:\Users\Dragomir\Desktop\VixY_SoftUni_HW\VixyHW2\NullBlaBla\bin\Debug\NullBlaBla.exe
+C:\Users\Dragomir\Desktop\VixY_SoftUni_HW\VixyHW2\NullBlaBla\bin\Debug\NullBlaBla.pdb
+C:\Users\Dragomir\Desktop\VixY_SoftUni_HW\VixyHW2\NullBlaBla\obj\Debug\NullBlaBla.csprojResolveAssemblyReference.cache
+C:\Users\Dragomir\Desktop\VixY_SoftUni_HW\VixyHW2\NullBlaBla\obj\Debug\NullBlaBla.exe
+C:\Users\Dragomir\Desktop\VixY_SoftUni_HW\VixyHW2\NullBlaBla\obj\Debug\NullBlaBla.pdb

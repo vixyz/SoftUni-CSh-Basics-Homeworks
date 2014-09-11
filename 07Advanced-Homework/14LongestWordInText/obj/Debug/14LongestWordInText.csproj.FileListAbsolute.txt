@@ -1,0 +1,5 @@
+C:\Users\VixY\Desktop\SoftUni\LevelZero\HomeworksZero\07Advanced-Homework\14LongestWordInText\bin\Debug\14LongestWordInText.exe.config
+C:\Users\VixY\Desktop\SoftUni\LevelZero\HomeworksZero\07Advanced-Homework\14LongestWordInText\bin\Debug\14LongestWordInText.exe
+C:\Users\VixY\Desktop\SoftUni\LevelZero\HomeworksZero\07Advanced-Homework\14LongestWordInText\bin\Debug\14LongestWordInText.pdb
+C:\Users\VixY\Desktop\SoftUni\LevelZero\HomeworksZero\07Advanced-Homework\14LongestWordInText\obj\Debug\14LongestWordInText.exe
+C:\Users\VixY\Desktop\SoftUni\LevelZero\HomeworksZero\07Advanced-Homework\14LongestWordInText\obj\Debug\14LongestWordInText.pdb

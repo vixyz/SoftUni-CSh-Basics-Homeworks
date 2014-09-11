@@ -1,0 +1,15 @@
+C:\Users\Dragomir\Desktop\VixY_SoftUni_HW\Operators-Expressions-Statements-Homework\01OddOrEven\bin\Debug\01OddOrEven.exe.config
+C:\Users\Dragomir\Desktop\VixY_SoftUni_HW\Operators-Expressions-Statements-Homework\01OddOrEven\bin\Debug\01OddOrEven.exe
+C:\Users\Dragomir\Desktop\VixY_SoftUni_HW\Operators-Expressions-Statements-Homework\01OddOrEven\bin\Debug\01OddOrEven.pdb
+C:\Users\Dragomir\Desktop\VixY_SoftUni_HW\Operators-Expressions-Statements-Homework\01OddOrEven\obj\Debug\01OddOrEven.csprojResolveAssemblyReference.cache
+C:\Users\Dragomir\Desktop\VixY_SoftUni_HW\Operators-Expressions-Statements-Homework\01OddOrEven\obj\Debug\01OddOrEven.exe
+C:\Users\Dragomir\Desktop\VixY_SoftUni_HW\Operators-Expressions-Statements-Homework\01OddOrEven\obj\Debug\01OddOrEven.pdb
+C:\Users\VixY\Desktop\SoftUni\HomeworksZero\03-Operators-Expressions-Statements-Homework\01OddOrEven\bin\Debug\01OddOrEven.exe.config
+C:\Users\VixY\Desktop\SoftUni\HomeworksZero\03-Operators-Expressions-Statements-Homework\01OddOrEven\obj\Debug\01OddOrEven.exe
+C:\Users\VixY\Desktop\SoftUni\HomeworksZero\03-Operators-Expressions-Statements-Homework\01OddOrEven\obj\Debug\01OddOrEven.pdb
+C:\Users\VixY\Desktop\SoftUni\HomeworksZero\03-Operators-Expressions-Statements-Homework\01OddOrEven\bin\Debug\01OddOrEven.exe
+C:\Users\VixY\Desktop\SoftUni\HomeworksZero\03-Operators-Expressions-Statements-Homework\01OddOrEven\bin\Debug\01OddOrEven.pdb
+C:\Users\VixY\Desktop\SoftUni\HomeworksZero\03-Operators-Expressions-Statements-Homework\01OddOrEven\obj\Debug\01OddOrEven.csprojResolveAssemblyReference.cache
+C:\Users\VixY\Desktop\SoftUni\LevelZero\HomeworksZero\03-Operators-Expressions-Statements-Homework\01OddOrEven\bin\Debug\01OddOrEven.exe.config
+C:\Users\VixY\Desktop\SoftUni\LevelZero\HomeworksZero\03-Operators-Expressions-Statements-Homework\01OddOrEven\obj\Debug\01OddOrEven.exe
+C:\Users\VixY\Desktop\SoftUni\LevelZero\HomeworksZero\03-Operators-Expressions-Statements-Homework\01OddOrEven\obj\Debug\01OddOrEven.pdb

@@ -1,0 +1,5 @@
+C:\Users\Drasho\Desktop\VixY_HW\ConsoleInputOutput\09SumNumbers\bin\Debug\09SumNumbers.exe.config
+C:\Users\Drasho\Desktop\VixY_HW\ConsoleInputOutput\09SumNumbers\bin\Debug\09SumNumbers.exe
+C:\Users\Drasho\Desktop\VixY_HW\ConsoleInputOutput\09SumNumbers\bin\Debug\09SumNumbers.pdb
+C:\Users\Drasho\Desktop\VixY_HW\ConsoleInputOutput\09SumNumbers\obj\Debug\09SumNumbers.exe
+C:\Users\Drasho\Desktop\VixY_HW\ConsoleInputOutput\09SumNumbers\obj\Debug\09SumNumbers.pdb

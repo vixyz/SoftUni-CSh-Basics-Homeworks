@@ -1,0 +1,6 @@
+C:\Users\VixY\Desktop\SoftUni\HomeworksZero\03-Operators-Expressions-Statements-Homework\10PointCircleRectangle\bin\Debug\10PointCircleRectangle.exe.config
+C:\Users\VixY\Desktop\SoftUni\HomeworksZero\03-Operators-Expressions-Statements-Homework\10PointCircleRectangle\bin\Debug\10PointCircleRectangle.exe
+C:\Users\VixY\Desktop\SoftUni\HomeworksZero\03-Operators-Expressions-Statements-Homework\10PointCircleRectangle\bin\Debug\10PointCircleRectangle.pdb
+C:\Users\VixY\Desktop\SoftUni\HomeworksZero\03-Operators-Expressions-Statements-Homework\10PointCircleRectangle\obj\Debug\10PointCircleRectangle.csprojResolveAssemblyReference.cache
+C:\Users\VixY\Desktop\SoftUni\HomeworksZero\03-Operators-Expressions-Statements-Homework\10PointCircleRectangle\obj\Debug\10PointCircleRectangle.exe
+C:\Users\VixY\Desktop\SoftUni\HomeworksZero\03-Operators-Expressions-Statements-Homework\10PointCircleRectangle\obj\Debug\10PointCircleRectangle.pdb

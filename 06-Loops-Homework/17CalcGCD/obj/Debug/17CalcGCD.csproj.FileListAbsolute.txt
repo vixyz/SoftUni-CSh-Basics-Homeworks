@@ -1,0 +1,12 @@
+C:\Users\VixY\Desktop\SoftUni\LevelZero\HomeworksZero\06-Loops-Homework\17CalcGCD\bin\Debug\17CalcGCD.exe.config
+C:\Users\VixY\Desktop\SoftUni\LevelZero\HomeworksZero\06-Loops-Homework\17CalcGCD\obj\Debug\17CalcGCD.csprojResolveAssemblyReference.cache
+C:\Users\VixY\Desktop\SoftUni\LevelZero\HomeworksZero\06-Loops-Homework\17CalcGCD\bin\Debug\17CalcGCD.exe
+C:\Users\VixY\Desktop\SoftUni\LevelZero\HomeworksZero\06-Loops-Homework\17CalcGCD\bin\Debug\17CalcGCD.pdb
+C:\Users\VixY\Desktop\SoftUni\LevelZero\HomeworksZero\06-Loops-Homework\17CalcGCD\obj\Debug\17CalcGCD.exe
+C:\Users\VixY\Desktop\SoftUni\LevelZero\HomeworksZero\06-Loops-Homework\17CalcGCD\obj\Debug\17CalcGCD.pdb
+C:\Users\VixY\Desktop\SoftUni\SoftUni\01LevelZeroC#\HomeworksZero\06-Loops-Homework\17CalcGCD\bin\Debug\17CalcGCD.exe.config
+C:\Users\VixY\Desktop\SoftUni\SoftUni\01LevelZeroC#\HomeworksZero\06-Loops-Homework\17CalcGCD\bin\Debug\17CalcGCD.exe
+C:\Users\VixY\Desktop\SoftUni\SoftUni\01LevelZeroC#\HomeworksZero\06-Loops-Homework\17CalcGCD\bin\Debug\17CalcGCD.pdb
+C:\Users\VixY\Desktop\SoftUni\SoftUni\01LevelZeroC#\HomeworksZero\06-Loops-Homework\17CalcGCD\obj\Debug\17CalcGCD.csprojResolveAssemblyReference.cache
+C:\Users\VixY\Desktop\SoftUni\SoftUni\01LevelZeroC#\HomeworksZero\06-Loops-Homework\17CalcGCD\obj\Debug\17CalcGCD.exe
+C:\Users\VixY\Desktop\SoftUni\SoftUni\01LevelZeroC#\HomeworksZero\06-Loops-Homework\17CalcGCD\obj\Debug\17CalcGCD.pdb

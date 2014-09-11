@@ -1,0 +1,6 @@
+C:\Users\VixY\Desktop\SoftUni\LevelZero\HomeworksZero\06-Loops-Homework\10OddOrEvenProduct\bin\Debug\10OddOrEvenProduct.exe.config
+C:\Users\VixY\Desktop\SoftUni\LevelZero\HomeworksZero\06-Loops-Homework\10OddOrEvenProduct\bin\Debug\10OddOrEvenProduct.exe
+C:\Users\VixY\Desktop\SoftUni\LevelZero\HomeworksZero\06-Loops-Homework\10OddOrEvenProduct\bin\Debug\10OddOrEvenProduct.pdb
+C:\Users\VixY\Desktop\SoftUni\LevelZero\HomeworksZero\06-Loops-Homework\10OddOrEvenProduct\obj\Debug\10OddOrEvenProduct.csprojResolveAssemblyReference.cache
+C:\Users\VixY\Desktop\SoftUni\LevelZero\HomeworksZero\06-Loops-Homework\10OddOrEvenProduct\obj\Debug\10OddOrEvenProduct.exe
+C:\Users\VixY\Desktop\SoftUni\LevelZero\HomeworksZero\06-Loops-Homework\10OddOrEvenProduct\obj\Debug\10OddOrEvenProduct.pdb

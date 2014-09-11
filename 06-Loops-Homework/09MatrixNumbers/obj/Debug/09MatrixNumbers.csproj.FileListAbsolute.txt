@@ -1,0 +1,6 @@
+C:\Users\VixY\Desktop\SoftUni\LevelZero\HomeworksZero\06-Loops-Homework\09MatrixNumbers\bin\Debug\09MatrixNumbers.exe.config
+C:\Users\VixY\Desktop\SoftUni\LevelZero\HomeworksZero\06-Loops-Homework\09MatrixNumbers\bin\Debug\09MatrixNumbers.exe
+C:\Users\VixY\Desktop\SoftUni\LevelZero\HomeworksZero\06-Loops-Homework\09MatrixNumbers\bin\Debug\09MatrixNumbers.pdb
+C:\Users\VixY\Desktop\SoftUni\LevelZero\HomeworksZero\06-Loops-Homework\09MatrixNumbers\obj\Debug\09MatrixNumbers.csprojResolveAssemblyReference.cache
+C:\Users\VixY\Desktop\SoftUni\LevelZero\HomeworksZero\06-Loops-Homework\09MatrixNumbers\obj\Debug\09MatrixNumbers.exe
+C:\Users\VixY\Desktop\SoftUni\LevelZero\HomeworksZero\06-Loops-Homework\09MatrixNumbers\obj\Debug\09MatrixNumbers.pdb

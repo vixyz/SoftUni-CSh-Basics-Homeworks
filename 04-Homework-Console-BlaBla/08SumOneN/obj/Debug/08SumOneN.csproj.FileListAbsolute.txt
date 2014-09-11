@@ -1,0 +1,11 @@
+C:\Users\Drasho\Desktop\VixY_HW\ConsoleInputOutput\08SumOneN\bin\Debug\08SumOneN.exe.config
+C:\Users\Drasho\Desktop\VixY_HW\ConsoleInputOutput\08SumOneN\bin\Debug\08SumOneN.exe
+C:\Users\Drasho\Desktop\VixY_HW\ConsoleInputOutput\08SumOneN\bin\Debug\08SumOneN.pdb
+C:\Users\Drasho\Desktop\VixY_HW\ConsoleInputOutput\08SumOneN\obj\Debug\08SumOneN.exe
+C:\Users\Drasho\Desktop\VixY_HW\ConsoleInputOutput\08SumOneN\obj\Debug\08SumOneN.pdb
+C:\Users\Drasho\Desktop\VixY_HW\04-Homework-Console-BlaBla\08SumOneN\bin\Debug\08SumOneN.exe.config
+C:\Users\Drasho\Desktop\VixY_HW\04-Homework-Console-BlaBla\08SumOneN\obj\Debug\08SumOneN.exe
+C:\Users\Drasho\Desktop\VixY_HW\04-Homework-Console-BlaBla\08SumOneN\obj\Debug\08SumOneN.pdb
+C:\Users\VixY\Desktop\SoftUni\LevelZero\HomeworksZero\04-Homework-Console-BlaBla\08SumOneN\bin\Debug\08SumOneN.exe.config
+C:\Users\VixY\Desktop\SoftUni\LevelZero\HomeworksZero\04-Homework-Console-BlaBla\08SumOneN\obj\Debug\08SumOneN.exe
+C:\Users\VixY\Desktop\SoftUni\LevelZero\HomeworksZero\04-Homework-Console-BlaBla\08SumOneN\obj\Debug\08SumOneN.pdb

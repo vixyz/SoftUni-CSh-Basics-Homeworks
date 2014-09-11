@@ -1,0 +1,9 @@
+C:\Users\Drasho\Desktop\VixY_HW\ConsoleInputOutput\07SumFiveNum\bin\Debug\07SumFiveNum.exe.config
+C:\Users\Drasho\Desktop\VixY_HW\ConsoleInputOutput\07SumFiveNum\bin\Debug\07SumFiveNum.exe
+C:\Users\Drasho\Desktop\VixY_HW\ConsoleInputOutput\07SumFiveNum\bin\Debug\07SumFiveNum.pdb
+C:\Users\Drasho\Desktop\VixY_HW\ConsoleInputOutput\07SumFiveNum\obj\Debug\07SumFiveNum.csprojResolveAssemblyReference.cache
+C:\Users\Drasho\Desktop\VixY_HW\ConsoleInputOutput\07SumFiveNum\obj\Debug\07SumFiveNum.exe
+C:\Users\Drasho\Desktop\VixY_HW\ConsoleInputOutput\07SumFiveNum\obj\Debug\07SumFiveNum.pdb
+C:\Users\Drasho\Desktop\VixY_HW\04-Homework-Console-BlaBla\07SumFiveNum\bin\Debug\07SumFiveNum.exe.config
+C:\Users\Drasho\Desktop\VixY_HW\04-Homework-Console-BlaBla\07SumFiveNum\obj\Debug\07SumFiveNum.exe
+C:\Users\Drasho\Desktop\VixY_HW\04-Homework-Console-BlaBla\07SumFiveNum\obj\Debug\07SumFiveNum.pdb

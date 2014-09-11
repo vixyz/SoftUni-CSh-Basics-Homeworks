@@ -1,0 +1,5 @@
+C:\Users\VixY\Desktop\SoftUni\LevelZero\HomeworksZero\07Advanced-Homework\07MatrixPalindromes\bin\Debug\07MatrixPalindromes.exe.config
+C:\Users\VixY\Desktop\SoftUni\LevelZero\HomeworksZero\07Advanced-Homework\07MatrixPalindromes\bin\Debug\07MatrixPalindromes.exe
+C:\Users\VixY\Desktop\SoftUni\LevelZero\HomeworksZero\07Advanced-Homework\07MatrixPalindromes\bin\Debug\07MatrixPalindromes.pdb
+C:\Users\VixY\Desktop\SoftUni\LevelZero\HomeworksZero\07Advanced-Homework\07MatrixPalindromes\obj\Debug\07MatrixPalindromes.exe
+C:\Users\VixY\Desktop\SoftUni\LevelZero\HomeworksZero\07Advanced-Homework\07MatrixPalindromes\obj\Debug\07MatrixPalindromes.pdb

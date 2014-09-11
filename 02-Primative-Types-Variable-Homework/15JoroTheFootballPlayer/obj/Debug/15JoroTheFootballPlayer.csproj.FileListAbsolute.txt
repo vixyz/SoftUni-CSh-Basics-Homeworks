@@ -1,0 +1,6 @@
+C:\Users\Dragomir\Desktop\VixY_SoftUni_HW\Primative-Types-Variable-Homework\15JoroTheFootballPlayer\bin\Debug\15JoroTheFootballPlayer.exe.config
+C:\Users\Dragomir\Desktop\VixY_SoftUni_HW\Primative-Types-Variable-Homework\15JoroTheFootballPlayer\bin\Debug\15JoroTheFootballPlayer.exe
+C:\Users\Dragomir\Desktop\VixY_SoftUni_HW\Primative-Types-Variable-Homework\15JoroTheFootballPlayer\bin\Debug\15JoroTheFootballPlayer.pdb
+C:\Users\Dragomir\Desktop\VixY_SoftUni_HW\Primative-Types-Variable-Homework\15JoroTheFootballPlayer\obj\Debug\15JoroTheFootballPlayer.csprojResolveAssemblyReference.cache
+C:\Users\Dragomir\Desktop\VixY_SoftUni_HW\Primative-Types-Variable-Homework\15JoroTheFootballPlayer\obj\Debug\15JoroTheFootballPlayer.exe
+C:\Users\Dragomir\Desktop\VixY_SoftUni_HW\Primative-Types-Variable-Homework\15JoroTheFootballPlayer\obj\Debug\15JoroTheFootballPlayer.pdb

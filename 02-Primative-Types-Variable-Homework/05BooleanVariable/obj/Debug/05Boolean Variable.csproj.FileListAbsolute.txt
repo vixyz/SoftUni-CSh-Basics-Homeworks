@@ -1,0 +1,3 @@
+C:\Users\Dragomir\Desktop\VixY_SoftUni_HW\VixyHW2\Boolean Variable\bin\Debug\Boolean Variable.exe.config
+C:\Users\Dragomir\Desktop\VixY_SoftUni_HW\VixyHW2\Boolean Variable\obj\Debug\Boolean Variable.exe
+C:\Users\Dragomir\Desktop\VixY_SoftUni_HW\VixyHW2\Boolean Variable\obj\Debug\Boolean Variable.pdb

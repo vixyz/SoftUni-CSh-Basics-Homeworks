@@ -1,0 +1,1 @@
+C:\Users\VixY\Desktop\SoftUni\LevelZero\HomeworksZero\03-Operators-Expressions-Statements-Homework\12ExtractBitFromInt\bin\Debug\12ExtractBitFromInt.exe.config

@@ -1,0 +1,6 @@
+C:\Users\VixY\Desktop\SoftUni\LevelZero\HomeworksZero\07Advanced-Homework\13AverageLoadingTime\bin\Debug\13AverageLoadingTime.exe.config
+C:\Users\VixY\Desktop\SoftUni\LevelZero\HomeworksZero\07Advanced-Homework\13AverageLoadingTime\bin\Debug\13AverageLoadingTime.exe
+C:\Users\VixY\Desktop\SoftUni\LevelZero\HomeworksZero\07Advanced-Homework\13AverageLoadingTime\bin\Debug\13AverageLoadingTime.pdb
+C:\Users\VixY\Desktop\SoftUni\LevelZero\HomeworksZero\07Advanced-Homework\13AverageLoadingTime\obj\Debug\13AverageLoadingTime.csprojResolveAssemblyReference.cache
+C:\Users\VixY\Desktop\SoftUni\LevelZero\HomeworksZero\07Advanced-Homework\13AverageLoadingTime\obj\Debug\13AverageLoadingTime.exe
+C:\Users\VixY\Desktop\SoftUni\LevelZero\HomeworksZero\07Advanced-Homework\13AverageLoadingTime\obj\Debug\13AverageLoadingTime.pdb

@@ -1,0 +1,15 @@
+C:\Users\Dragomir\Desktop\VixY_SoftUni_HW\Operators-Expressions-Statements-Homework\06FourDigitNumber\bin\Debug\06FourDigitNumber.exe.config
+C:\Users\Dragomir\Desktop\VixY_SoftUni_HW\Operators-Expressions-Statements-Homework\06FourDigitNumber\bin\Debug\06FourDigitNumber.exe
+C:\Users\Dragomir\Desktop\VixY_SoftUni_HW\Operators-Expressions-Statements-Homework\06FourDigitNumber\bin\Debug\06FourDigitNumber.pdb
+C:\Users\Dragomir\Desktop\VixY_SoftUni_HW\Operators-Expressions-Statements-Homework\06FourDigitNumber\obj\Debug\06FourDigitNumber.csprojResolveAssemblyReference.cache
+C:\Users\Dragomir\Desktop\VixY_SoftUni_HW\Operators-Expressions-Statements-Homework\06FourDigitNumber\obj\Debug\06FourDigitNumber.exe
+C:\Users\Dragomir\Desktop\VixY_SoftUni_HW\Operators-Expressions-Statements-Homework\06FourDigitNumber\obj\Debug\06FourDigitNumber.pdb
+C:\Users\VixY\Desktop\SoftUni\HomeworksZero\03-Operators-Expressions-Statements-Homework\06FourDigitNumber\bin\Debug\06FourDigitNumber.exe.config
+C:\Users\VixY\Desktop\SoftUni\HomeworksZero\03-Operators-Expressions-Statements-Homework\06FourDigitNumber\obj\Debug\06FourDigitNumber.exe
+C:\Users\VixY\Desktop\SoftUni\HomeworksZero\03-Operators-Expressions-Statements-Homework\06FourDigitNumber\obj\Debug\06FourDigitNumber.pdb
+C:\Users\VixY\Desktop\SoftUni\HomeworksZero\03-Operators-Expressions-Statements-Homework\06FourDigitNumber\bin\Debug\06FourDigitNumber.exe
+C:\Users\VixY\Desktop\SoftUni\HomeworksZero\03-Operators-Expressions-Statements-Homework\06FourDigitNumber\bin\Debug\06FourDigitNumber.pdb
+C:\Users\VixY\Desktop\SoftUni\HomeworksZero\03-Operators-Expressions-Statements-Homework\06FourDigitNumber\obj\Debug\06FourDigitNumber.csprojResolveAssemblyReference.cache
+C:\Users\VixY\Desktop\SoftUni\LevelZero\HomeworksZero\03-Operators-Expressions-Statements-Homework\06FourDigitNumber\bin\Debug\06FourDigitNumber.exe.config
+C:\Users\VixY\Desktop\SoftUni\LevelZero\HomeworksZero\03-Operators-Expressions-Statements-Homework\06FourDigitNumber\obj\Debug\06FourDigitNumber.exe
+C:\Users\VixY\Desktop\SoftUni\LevelZero\HomeworksZero\03-Operators-Expressions-Statements-Homework\06FourDigitNumber\obj\Debug\06FourDigitNumber.pdb

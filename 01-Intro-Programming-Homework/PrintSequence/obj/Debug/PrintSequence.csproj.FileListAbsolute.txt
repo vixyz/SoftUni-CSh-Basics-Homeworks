@@ -1,0 +1,8 @@
+C:\Users\Drasho\Desktop\VixY_HW\Intro-Programming-Homework\PrintSequence\bin\Debug\PrintSequence.exe.config
+C:\Users\Drasho\Desktop\VixY_HW\Intro-Programming-Homework\PrintSequence\bin\Debug\PrintSequence.exe
+C:\Users\Drasho\Desktop\VixY_HW\Intro-Programming-Homework\PrintSequence\bin\Debug\PrintSequence.pdb
+C:\Users\Drasho\Desktop\VixY_HW\Intro-Programming-Homework\PrintSequence\obj\Debug\PrintSequence.exe
+C:\Users\Drasho\Desktop\VixY_HW\Intro-Programming-Homework\PrintSequence\obj\Debug\PrintSequence.pdb
+C:\Users\VixY\Desktop\SoftUni\HomeworksZero\Intro-Programming-Homework\PrintSequence\bin\Debug\PrintSequence.exe.config
+C:\Users\VixY\Desktop\SoftUni\HomeworksZero\Intro-Programming-Homework\PrintSequence\obj\Debug\PrintSequence.exe
+C:\Users\VixY\Desktop\SoftUni\HomeworksZero\Intro-Programming-Homework\PrintSequence\obj\Debug\PrintSequence.pdb

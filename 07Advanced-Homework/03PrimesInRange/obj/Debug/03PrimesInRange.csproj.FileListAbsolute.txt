@@ -1,0 +1,6 @@
+C:\Users\VixY\Desktop\SoftUni\LevelZero\HomeworksZero\07Advanced-Homework\03PrimesInRange\bin\Debug\03PrimesInRange.exe.config
+C:\Users\VixY\Desktop\SoftUni\LevelZero\HomeworksZero\07Advanced-Homework\03PrimesInRange\bin\Debug\03PrimesInRange.exe
+C:\Users\VixY\Desktop\SoftUni\LevelZero\HomeworksZero\07Advanced-Homework\03PrimesInRange\bin\Debug\03PrimesInRange.pdb
+C:\Users\VixY\Desktop\SoftUni\LevelZero\HomeworksZero\07Advanced-Homework\03PrimesInRange\obj\Debug\03PrimesInRange.exe
+C:\Users\VixY\Desktop\SoftUni\LevelZero\HomeworksZero\07Advanced-Homework\03PrimesInRange\obj\Debug\03PrimesInRange.pdb
+C:\Users\VixY\Desktop\SoftUni\LevelZero\HomeworksZero\07Advanced-Homework\03PrimesInRange\obj\Debug\03PrimesInRange.csprojResolveAssemblyReference.cache

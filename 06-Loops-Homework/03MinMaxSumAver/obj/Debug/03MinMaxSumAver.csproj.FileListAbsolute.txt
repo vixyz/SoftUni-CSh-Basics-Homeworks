@@ -1,0 +1,6 @@
+C:\Users\VixY\Desktop\SoftUni\LevelZero\HomeworksZero\06-Loops-Homework\03MinMaxSumAver\bin\Debug\03MinMaxSumAver.exe.config
+C:\Users\VixY\Desktop\SoftUni\LevelZero\HomeworksZero\06-Loops-Homework\03MinMaxSumAver\bin\Debug\03MinMaxSumAver.exe
+C:\Users\VixY\Desktop\SoftUni\LevelZero\HomeworksZero\06-Loops-Homework\03MinMaxSumAver\bin\Debug\03MinMaxSumAver.pdb
+C:\Users\VixY\Desktop\SoftUni\LevelZero\HomeworksZero\06-Loops-Homework\03MinMaxSumAver\obj\Debug\03MinMaxSumAver.exe
+C:\Users\VixY\Desktop\SoftUni\LevelZero\HomeworksZero\06-Loops-Homework\03MinMaxSumAver\obj\Debug\03MinMaxSumAver.pdb
+C:\Users\VixY\Desktop\SoftUni\LevelZero\HomeworksZero\06-Loops-Homework\03MinMaxSumAver\obj\Debug\03MinMaxSumAver.csprojResolveAssemblyReference.cache
